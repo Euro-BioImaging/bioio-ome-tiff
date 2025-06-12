@@ -35,7 +35,7 @@ dependencies = [
   "ome-types[lxml]>=0.4.0",
   "pydantic>= 1.10.0",
   "PyYAML>=6.0",
-  "tifffile[zarr]>=2025.5.21",
+ # "tifffile[zarr]>=2025.5.21",
   "xarray>=0.16.1",
   "xmlschema",  # no pin because it's pulled in from OME types
 ]
